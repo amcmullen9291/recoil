@@ -1,5 +1,6 @@
-An introduction to Recoil.
-# It is not my repo. 
+# An introduction to Recoil.
+
+It is not my repo. 
 
 For additonal information, read blog @
 
