@@ -1,6 +1,6 @@
 # An introduction to Recoil.
 
-It is not my repo. 
+This is a code-along repo. 
 
 For additonal information, read blog @
 
